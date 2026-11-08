@@ -1,0 +1,12 @@
+.Xil/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+*.dmp
+*.backup*
+hs_err_pid*
